@@ -1,0 +1,34 @@
+System Organ Class,Adverse Event (MedDRA v11.0 Preferred Term),Varenicline (N=353),Placebo (N=350)
+Cardiac Disorders,Acute coronary syndrome,0,1 (0.3%)
+,Acute myocardial infarction,2 (0.6%),1 (0.3%)
+,Angina pectoris,13 (3.7%),7 (2.0%)
+,Angina unstable,2 (0.6%),0
+,Arrhythmia,1 (0.3%),0
+,Atrial fibrillation,2 (0.6%),2 (0.6%)
+,Bundle branch block left,1 (0.3%),0
+,Cardiac failure,1 (0.3%),1 (0.3%)
+,Cardiac failure congestive,0,1 (0.3%)
+,Cardiogenic shock,0,1 (0.3%)
+,Cardiovascular disorder,1 (0.3%),2 (0.6%)
+,Coronary artery disease,1 (0.3%),0
+,Myocardial infarction,1 (0.3%),1 (0.3%)
+,Palpitations,2 (0.6%),4 (1.1%)
+,Tachycardia,1 (0.3%),0
+,Ventricular tachycardia,0,1 (0.3%)
+Nervous System Disorders,Cerebrovascular accident,2 (0.6%),0
+,Syncope,1 (0.3%),1 (0.3%)
+,Transient ischemic attack,0,1 (0.3%)
+Vascular Disorders,Aortic arteriosclerosis,1 (0.3%),0
+,Arteriosclerosis,3 (0.8%),0
+,Circulatory collapse,0,1 (0.3%)
+,Femoral artery occlusion,1 (0.3%),0
+,Hematoma,0,2 (0.6%)
+,Hot flush,2 (0.6%),2 (0.6%)
+,Hypertension,5 (1.4%),9 (2.6%)
+,Hypotension,2 (0.6%),2 (0.6%)
+,Intermittent claudication,1 (0.3%),1 (0.3%)
+,Ischemia,1 (0.3%),0
+,Orthostatic hypotension,1 (0.3%),2 (0.6%)
+,Peripheral vascular disorder,1 (0.3%),0
+,Thrombosis,1 (0.3%),0
+,Varicose vein,1 (0.3%),0
